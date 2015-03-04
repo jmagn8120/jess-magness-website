@@ -1,0 +1,110 @@
+<! DOCTYPE html>
+<head>
+	<title>Jess Magness</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"> 
+	</script> 
+	<script src="jessapp.js"></script>
+	<style type="text/css">
+	body{
+		background-image: url(http://photos.visitphilly.com/philadelphia-skyline-vantage-points1-1000vp.jpg);
+		background-size: cover; 
+		color: white;
+		font-family: 'Lato', sans-serif;
+	}
+
+	div{
+		padding: 1px 15px 1px 15px;
+		border: 5px solid #FBEC5D;
+		border-radius: 20px;
+	}
+
+	#title{
+		background-color: rgba(0, 0, 0, 0.7);
+		max-height: 30%;
+		max-width: 50%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	a:link{
+		font-weight: bold;
+		font-size: 18px;
+		color: white;
+	}
+	a:visited{
+		text-decoration: underline;
+		color: orange;
+	}
+	a:hover{
+		font-style: italic;
+	}
+
+	#title table{
+		margin: 0 auto;
+	}
+	#student{
+		background-color: rgba(0, 0, 0, 0.7);
+		max-height: 75%;
+		max-width: 75%;
+		margin: 0 auto;
+	}
+
+	div p{
+		font-size: 18px;
+	}
+	div p ul{
+		font-size: 18px;
+	}
+	#intern{
+		background-color: rgba(0, 0, 0, 0.7);
+		max-height: 35%;
+		max-width: 70%;
+		margin: 0 auto;
+	}
+
+	#webdev{
+		background-color: rgba(0, 0, 0, 0.7);
+		max-height: 35%;
+		max-width: 90%;
+		margin: 0 auto;
+	}
+
+	#github{
+		background-color: rgba(0, 0, 0, 0.7);
+		max-height: 35%;
+		max-width: 90%;
+		margin: 0 auto;
+	}
+	</style>
+</head>
+<body>
+	<div id="title"><h1>JESS MAGNESS</h1>
+	<table border="0">
+<tr>
+</tr>
+<tr>
+<td><ul><li><a href="#student">STUDENT</a></li></ul></td><td><ul><li><a href="#webdev">WEB DEVELOPMENT PROJECTS</a></li></ul></td>
+</tr>
+<tr>
+<td><ul><li><a href="#intern">OPEN DATA INTERN</a></li></ul></td><td><ul><li><a href="#github">GITHUB &amp; CONTACT INFORMATION</a></li></ul></td>
+</tr>
+</table>
+
+	<!--<ul><li>STUDENT</li> <li>OPEN DATA INTERN</li> <li>WEB DEVELOPMENT PROJECTS</li> <li>GITHUB &amp; CONTACT INFORMATION</li> </ul>--></div><br>
+	<div id="student"><h2>STUDENT</h2>
+	<p>Currently working towards Master's of Science in Information Systems. The degree program is specialized for professionals who wish to broaden and formalize their knowledge in the field of information technology.<br>
+	Relevant Coursework includes:
+	<ul>
+		<li><strong>Software Development</strong> - I have completed weekly development exercises using HTML/CSS and JavaScript. I have been able to increase my skills in back-end programming to build customized web pages, websites and applications. I have been able to customize pages using CSS and build and validate forms using JavaScript. Course material also teaches the complexities of web development and how to overcome many of the prevalent barriers in the field.</li>
+		<li><strong>Intro to Database Management</strong> - Learning fundamental concepts associated with database management systems, analyzing data management problems (e.g., assess the information needs of a business), designing databases that address those problems using industry-standard methodologies, implementing those designs using popular commercial-grade database software packages, developing applications that interact with databases using SQL.</li>
+		<li><strong>Advanced Database Management</strong> - Examines both traditional database systems and recent advances in database systems. Topics include formal treatment of normalization and denormalization, extended entity-relationship models, advanced query processing techniques, query optimization, physical database design and indexing, and object-oriented database systems.</li> 
+		<li><strong>Healthcare Informatics</strong> - Healthcare Informatics The course presents an overview of all aspects of healthcare informatics, including medical, nursing and bioinformatics. It provides an introduction to the applications of information systems in a variety of healthcare environments, including education, research and clinical settings. It includes extensive reading and critical discussion of relevant professional research literature.</li>
+	</ul></p></div><br>
+	<div id="intern"><p><h2>OPEN DATA INTERN</h2></p></div><br>
+	<div id="webdev"><p><h2>WEB DEVELOPMENT PROJECTS</h2></p></div><br>
+	<div id="github"><p><h2>GITHUB &amp; CONTACT INFORMATION</h2></p></div><br>
+
+	
+</body>
+<html>
