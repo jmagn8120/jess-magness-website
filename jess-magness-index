@@ -101,9 +101,21 @@
 		<li><strong>Advanced Database Management</strong> - Examines both traditional database systems and recent advances in database systems. Topics include formal treatment of normalization and denormalization, extended entity-relationship models, advanced query processing techniques, query optimization, physical database design and indexing, and object-oriented database systems.</li> 
 		<li><strong>Healthcare Informatics</strong> - Healthcare Informatics The course presents an overview of all aspects of healthcare informatics, including medical, nursing and bioinformatics. It provides an introduction to the applications of information systems in a variety of healthcare environments, including education, research and clinical settings. It includes extensive reading and critical discussion of relevant professional research literature.</li>
 	</ul></p></div><br>
-	<div id="intern"><p><h2>OPEN DATA INTERN</h2><p>Work with the Data Services Team at OIT to make the city’s data more transparent and accessible. Collect data from the city’s agencies and departments. Run queries to access business insight for departments and provide visualizations of data. Take part in cleaning and organizing data to increase accessibility and its ability to be machine-readable. I have used MySQL, MS Access, XML, and T-SQL to make sure that the city’s data is current. I also provide research for trends in database management, analytics and visualizations.</p></div><br>
-	<div id="webdev"><p><h2>WEB DEVELOPMENT PROJECTS</h2></p></div><br>
-	<div id="github"><p><h2>GITHUB &amp; CONTACT INFORMATION</h2></p></div><br>
+	<div id="intern"><p><h2>OPEN DATA INTERN</h2><p>Work with the Data Services Team at OIT to make the city’s data more transparent and accessible. This involved interfacing with a number of City Departments (Licenses and Inspections, Animal Control, Board of Ethics and the City Commissioner's Office) to analyze their creation and useage of data and suggesting ways to optimize their data processes. This also resulted in the City's Data Inventory, which keeps track of all the data sets being created within the city. 
+	Collect data from the city’s agencies and departments. Run queries to access business insight for departments and provide visualizations 
+	of data. Take part in cleaning and organizing data to increase accessibility and its ability to be machine-readable. I have used 
+	MySQL, MS Access, XML, and T-SQL to make sure that the city’s data is current. Writing, editing, and maintaining markup for external sites. I also provide research for trends in database 
+	management, analytics and visualizations.</p></div><br>
+	<div id="webdev"><p><h2>WEB DEVELOPMENT PROJECTS</h2><p>Takes part in Code For Philly’s weekly meet up to provide valuable 
+	apps to the people of Philadelphia. OpenDisclosure aims to be a web portal that will provide information on candidates in 
+	Philadelphia’s 2015 primary election. This project utilizes Bootstrap, JavaScript, Angular.JS and querying and manipulating 
+	data from the Philadelphia Board of Ethics.</br>
+	Also works with a team on grademypc.com, which is in the process of developing a web application that scans, displays and 
+	grades a computer’s downloaded applications. This project involves ideation with team members, prototyping and building out 
+	the application and its database. This application uses Python and PHP/MySQL.
+	</p></div><br>
+	<div id="github"><p><h2>GITHUB &amp; CONTACT INFORMATION</h2><p><a href="github.com/jessmagness">github.com/jessmagness</a>
+	</br> <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Send Me an E-Mail</a></p></div><br>
 
 	
 </body>
